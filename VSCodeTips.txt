@@ -1,0 +1,44 @@
+Trim trailing whitespace#
+Keyboard Shortcut: Ctrl+K Ctrl+X
+
+Duplicate line
+SHIFT+ALT + ?
+
+Code formatting
+Currently selected source code: Ctrl+K Ctrl+F
+
+Whole document format: Shift+Alt+F
+
+Code folding
+Keyboard Shortcut: Ctrl+Shift+[ and Ctrl+Shift+]
+
+Select current line
+Keyboard Shortcut: Ctrl+L
+
+Command Palette
+Keyboard Shortcut: Ctrl+Shift+P
+
+Quick Open
+Quickly open files.
+
+Keyboard Shortcut: Ctrl+P
+
+Change your theme
+Keyboard Shortcut: Ctrl+K Ctrl+T
+
+Customize your keyboard shortcuts
+Keyboard Shortcut: Ctrl+K Ctrl+S
+
+Integrated Terminal
+Keyboard Shortcut: Ctrl+`
+
+Zen mode
+Keyboard Shortcut: Ctrl+K Z
+Press Esc twice to exit Zen Mode.
+
+Side by side editing
+Keyboard Shortcut: Ctrl+\
+
+IntelliSense#
+Ctrl+Space to trigger the Suggestions widget.
+
